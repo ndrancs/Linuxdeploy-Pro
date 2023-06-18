@@ -1,4 +1,4 @@
-# Linux Deploy
+# Linux Deploy Pro
 
 [![Android CI](https://github.com/lateautumn233/Linuxdeploy-Pro/actions/workflows/android.yml/badge.svg)](https://github.com/lateautumn233/Linuxdeploy-Pro/actions/workflows/android.yml) ![Download](https://img.shields.io/github/downloads/lateautumn233/Linuxdeploy-Pro/total)
 
